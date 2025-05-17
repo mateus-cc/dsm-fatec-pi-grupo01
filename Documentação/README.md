@@ -1,5 +1,5 @@
 <div align='center'>
-<h1>Documentação principal 💻</h1>
+<h1>Documentação Principal 💻</h1>
 </div>
 
 Diagramas UML:
@@ -13,6 +13,7 @@ Diagrama de Contexto: Representação visual de alto nível de um sistema.
 Tecnologias Usadas:
 
 Linguagem de Marcação: HTML
+
 Linguagem de Estilo: CSS
 
 Requisitos Funcionais:
