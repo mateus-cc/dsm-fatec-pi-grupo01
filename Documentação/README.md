@@ -12,8 +12,8 @@ Diagrama de Contexto: <a href=#>Contexto</a>
 
 Tecnologias Usadas:
 
-<div align='center'>
-  <p>Tecnologias Utilizadas</p>
+<div>
+<h3>Tecnologias Utilizadas</h3>
 Linguagem de Marcação: <img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
 
 Linguagem de Estilo: <img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/></img>
