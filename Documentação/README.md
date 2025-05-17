@@ -2,7 +2,7 @@
 <h1>Documentação Principal 💻</h1>
 </div>
 
-Diagramas UML:
+<h3>Diagramas UML:</h3>
 
 Diagrama de Casos de Uso: <a href=#>Caso de uso</a>
 
@@ -13,15 +13,15 @@ Diagrama de Contexto: <a href=#>Contexto</a>
 Tecnologias Usadas:
 
 <div>
-<h3>Tecnologias Utilizadas</h3>
+<h3>Tecnologias Utilizadas 💻</h3>
 Linguagem de Marcação: <img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
 
 Linguagem de Estilo: <img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/></img>
 </div>
-  
-Requisitos Funcionais:
 
-Requisitos Não Funcionais:
+### Requisitos Funcionais:
+
+### Requisitos Não Funcionais:
 
 
 
