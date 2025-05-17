@@ -10,8 +10,6 @@ Diagrama de Sequência: <a href=#>Sequencia</a>
 
 Diagrama de Contexto: <a href=#>Contexto</a>
 
-Tecnologias Usadas:
-
 <div>
 <h3>Tecnologias Utilizadas 💻</h3>
 Linguagem de Marcação: <img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
