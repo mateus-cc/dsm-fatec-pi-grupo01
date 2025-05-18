@@ -16,7 +16,7 @@ Linguagem de Marcação: <img width='60' height='60' src="https://cdn.jsdelivr.n
 </div>
 <div display='inline'>
 Linguagem de Estilo: <img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
+<img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
 
 </div>
 
