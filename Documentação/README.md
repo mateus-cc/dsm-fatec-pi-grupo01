@@ -8,7 +8,7 @@ Diagrama de Casos de Uso: <a href=#>Caso de uso</a>
 
 Diagrama de Sequência: <a href=#>Sequencia</a>
 
-Diagrama de Contexto: <a href=#>Contexto</a>
+Diagrama de Contexto: <a href=https://github.com/mateus-cc/dsm-fatec-pi-grupo01/blob/main/Documentação/Diagramas/Contexto/Diagrama%20de%20Contexto%20-%20PI.png>Contexto</a>
 
 <div>
 <h3>Tecnologias Utilizadas 💻</h3>
