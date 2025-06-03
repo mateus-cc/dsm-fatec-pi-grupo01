@@ -1,0 +1,36 @@
+footer {
+    background-color: #004d73;
+}
+
+#footer_items {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    padding: 0px 8% 24px 8%;
+}
+
+.back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: rgba(0, 0, 0, 0.2);
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    color: #07c;
+    text-decoration: none;
+    font-size: 20px;
+    transform: rotate(-90deg);
+    border: 0.1rem solid #004d73;
+    z-index: 5;
+}
+
+@media screen and (max-width: 600px) {
+    #footer_items {
+        flex-direction: column;
+        gap: 20px;
+    }
+}
