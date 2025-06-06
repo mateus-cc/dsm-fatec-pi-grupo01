@@ -101,6 +101,11 @@ textarea:focus {
     outline: none;
 }
 
+iframe {
+    width: 90%;
+    margin: 0 100px 50px 100px
+}
+
 @media screen and (max-width: 1170px) {
     #formulario_container {
         flex-direction: column;
