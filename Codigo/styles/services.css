@@ -29,7 +29,7 @@
 }
 
 .tam {
-    font-size: 20px;
+    font-size: 17px;
 }
 
 .service-heart {
@@ -61,6 +61,7 @@
 
 .service-rate {
     color: #004d73;
+    margin-top: 20px;
 }
 
 .service-price {
@@ -69,7 +70,7 @@
     gap: 20px;
 }
 
-.service-price h4{
+.service-price h4 {
     margin-bottom: 0;
     font-size: 20px;
 }
@@ -78,11 +79,14 @@
     font-size: 20px;
 }
 
-.arrumar {
-    margin-bottom: 22px;
+.service-price a{
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    color: inherit;   
 }
-
-
 
 
 @media screen and (max-width: 1170px) {
@@ -93,6 +97,34 @@
 
     .service {
         width: calc(50% - 12px);
+    }
+}
+
+@media (min-width: 1171px) and (max-width: 1650px) {
+    .service-description {
+        max-height: 144px;
+    }
+
+    .tam {
+        font-size: 15px;
+    }
+
+    .service-price {
+        margin-top: auto;
+    }
+
+    .service-price h4{
+        font-size: 15px;
+    }
+
+    .service-rate {
+        margin-top: 70px;
+    }
+}
+
+@media (min-width: 1171px) and (max-width: 1325px){
+    .service-price h4{
+        font-size: 14px;
     }
 }
 

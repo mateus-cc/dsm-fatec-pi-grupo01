@@ -128,4 +128,31 @@ body {
   order: 1;
 }
 
+@media screen and (max-width: 1200px) {
+    .timeline::after{
+        content: none;
+        display: none;
+    }
+
+    .timeline-item::after {
+        content: none;
+        display: none;
+    }
+
+    .timeline-item {
+        display: block;
+    }
+
+    .back-to-top {
+        display: none;
+    }
+
+    .full {
+        overflow: hidden;
+    }
+
+}
+
+
+
 
