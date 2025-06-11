@@ -37,7 +37,7 @@ O site é dividido nas seguintes seções principais:
 - Formulário de contato com campos validados via HTML5
 - Integração de links para WhatsApp, Email e Instagram
 
-  Principais colaboradores do Desenvolvimento Web:
+## Principais colaboradores do Desenvolvimento Web:
   - Mateus Cesar Costa
   - Felipe Rodrigues Teixeira
   - Gustavo Carelli Pinton
