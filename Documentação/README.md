@@ -4,7 +4,7 @@
 
 <h3>Diagramas UML:</h3>
 
-Diagrama de Casos de Uso: <a href=https://github.com/mateus-cc/dsm-fatec-pi-grupo01/blob/documentação/Documentação/Diagramas/Caso%20de%20Uso/Diagrama%20de%20Caso%20de%20Uso.png>Caso de uso</a>
+Diagrama de Casos de Uso: <a href="https://github.com/mateus-cc/dsm-fatec-pi-grupo01/blob/main/Documentação/Diagramas/Caso%20de%20Uso/Diagrama%20de%20Caso%20de%20Uso.png">Caso de uso</a>
 
 Diagrama de Sequência: <a href=#>Sequencia</a>
 
