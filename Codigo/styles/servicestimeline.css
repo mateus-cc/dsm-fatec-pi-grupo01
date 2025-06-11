@@ -84,11 +84,12 @@ body {
 
 .project img {
     width: 100%;
-    max-height: 450px;
+    height: 450px;
     object-fit: cover;
     border-radius: 10px;
     border: 1px solid #ccc;
     transition: all 300ms ease-in-out;
+    display: block;
 }
 
 .project img:hover {
@@ -97,7 +98,7 @@ body {
 
 .service-button {
     background: linear-gradient(90deg,rgba(0, 106, 138, 1) 0%, rgba(11, 137, 176, 1) 35%, rgba(0, 212, 255, 1) 100%);;
-    max-width: 250px;
+    width: 250px;
     border: 1px solid #ccc;
     border-radius: 10px;
     padding: 10px;
@@ -151,7 +152,36 @@ body {
         overflow: hidden;
     }
 
+    .project img {
+        height: auto;
+    }
 }
+
+@media screen and (max-width: 1630px){
+    body {
+        overflow-x: hidden;
+    }
+
+    .project img {
+        height: 500px;
+    }
+
+    .content {
+        height: 500px;
+        overflow-y: visible;
+    }
+
+    .content h1 {
+        font-size: 30px;
+    }
+
+    .back-to-top {
+        display: none;
+    }
+}
+
+
+
 
 
 
