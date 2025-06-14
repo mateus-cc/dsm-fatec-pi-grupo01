@@ -1,13 +1,9 @@
-*
-
 .depoimentos{
 width: 100%;
-padding: 50px 20px;
-margin: 0 auto;
-
+padding: 0 20px;
+margin: 100px auto;
 max-width: 900px;
 position: relative;
-
 overflow: hidden;
 }
 
@@ -29,14 +25,13 @@ overflow: hidden;
 .depoimentos p.depoi-txt {
     font-weight: 300;
     margin-bottom: 40px;
-
 }
 
 
 .slide .person img{
     width: 80px;
     height: 80px;
-
+    border-radius: 50%;
 }
 
 .slide .person{
@@ -52,4 +47,10 @@ overflow: hidden;
 
 .slide .person p.func-person{
 font-size: 14px;
+}
+
+.footertest {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
