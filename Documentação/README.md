@@ -6,9 +6,9 @@
 
 Diagrama de Casos de Uso: <a href="https://github.com/mateus-cc/dsm-fatec-pi-grupo01/blob/main/Documentação/Diagramas/Caso%20de%20Uso/Diagrama%20de%20Caso%20de%20Uso.png">Caso de uso</a>
 
-Diagrama de Sequência: <a href=#>Sequencia</a>
+Diagrama de Sequência: <a href="https://github.com/mateus-cc/dsm-fatec-pi-grupo01/blob/main/Documentação/Diagramas/Sequencial/diagrama%20sequencial.jpg">Sequencia</a>
 
-Diagrama de Contexto: <a href=https://github.com/mateus-cc/dsm-fatec-pi-grupo01/blob/main/Documentação/Diagramas/Contexto/Diagrama%20de%20Contexto%20-%20PI.png>Contexto</a>
+Diagrama de Contexto: <a href="https://github.com/mateus-cc/dsm-fatec-pi-grupo01/blob/main/Documentação/Diagramas/Contexto/Diagrama%20de%20contexto.jpg">Contexto</a>
 
 <div>
 <h3>Tecnologias Utilizadas 💻</h3>
