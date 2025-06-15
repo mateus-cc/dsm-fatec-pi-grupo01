@@ -8,15 +8,14 @@
   <p>Empresa focada em projetos técnicos de engenharia civil, atendimento ao cliente, prospecção de clientes, acompanhamento de obras e afins relacionados a construção.</p>
   
   <h3>Integrantes do Grupo</h3>
-  <ul display='inline-block'>
-    <li>Mateus Cesar Costa (PO)</li> [GitHub:] (https://github.com/mateus-cc)
-    <li>Felipe Rodrigues Teixeira</li> [GitHub:] (https://github.com/1freelipe)
-    <li>Wanderson Jaime de Almeida Santos</li> [GitHub:] (https://github.com/WandersonSantos1991)
-    <li>Ruan Moraes</li> GitHub: <a href=""></a>
-    <li>Gustavo Carelli Pinton</li> [GitHub:] (https://github.com/GustavoPinton)
-    <li>Miguel de O. C. Cardoso</li> [GitHub:] 
-    <li>Aleksander Gustavo Assis</li> [GitHub:] (https://github.com/AleksGustavo)
-    <li>Caua Penteado dos Santos</li> [GitHub:] (https://github.com/CauaPenteado)
-  </ul>
+
+- Mateus Cesar Costa (PO): [GitHub](https://github.com/mateus-cc)
+- Felipe Rodrigues Teixeira: [GitHub](https://github.com/1freelipe)
+- Wanderson Jaime de Almeida Santos: [GitHub](https://github.com/WandersonSantos1991)
+- Ruan Moraes: [GitHub](https://github.com/)
+- Gustavo Carelli Pinton: [GitHub](https://github.com/GustavoPinton)
+- Miguel de O. C. Cardoso: GitHub (não informado)
+- Aleksander Gustavo Assis: [GitHub](https://github.com/AleksGustavo)
+- Caua Penteado dos Santos: [GitHub](https://github.com/CauaPenteado)
 
   <a href='https://mateus-cc.github.io/dsm-fatec-pi-grupo01/Codigo/index.html'>Link para Projeto</a>
