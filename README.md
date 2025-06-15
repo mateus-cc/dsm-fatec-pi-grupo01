@@ -8,7 +8,7 @@
   <p>Empresa focada em projetos técnicos de engenharia civil, atendimento ao cliente, prospecção de clientes, acompanhamento de obras e afins relacionados a construção.</p>
   
   <h3>Integrantes do Grupo</h3>
-  <ul>
+  <ul display='inline-block'>
     <li>Mateus Cesar Costa (PO)</li> [GitHub:] (https://github.com/mateus-cc)
     <li>Felipe Rodrigues Teixeira</li> [GitHub:] (https://github.com/1freelipe)
     <li>Wanderson Jaime de Almeida Santos</li> [GitHub:] (https://github.com/WandersonSantos1991)
