@@ -9,14 +9,14 @@
   
   <h3>Integrantes do Grupo</h3>
   <ul>
-    <li>Mateus Cesar Costa (PO)</li> GitHub: <a href="https://github.com/mateus-cc"></a>
-    <li>Felipe Rodrigues Teixeira</li> GitHub: <a href="https://github.com/1freelipe"></a>
-    <li>Wanderson Jaime de Almeida Santos</li> GitHub: <a href="https://github.com/WandersonSantos1991"></a>
+    <li>Mateus Cesar Costa (PO)</li> [GitHub:] (https://github.com/mateus-cc)
+    <li>Felipe Rodrigues Teixeira</li> [GitHub:] (https://github.com/1freelipe)
+    <li>Wanderson Jaime de Almeida Santos</li> [GitHub:] (https://github.com/WandersonSantos1991)
     <li>Ruan Moraes</li> GitHub: <a href=""></a>
-    <li>Gustavo Carelli Pinton</li> GitHub: <a href="https://github.com/GustavoPinton"></a>
-    <li>Miguel de O. C. Cardoso</li> GitHub: <a href=""></a>
-    <li>Aleksander Gustavo Assis</li> GitHub: <a href="https://github.com/AleksGustavo"></a>
-    <li>Caua Penteado dos Santos</li> GitHub: <a href="https://github.com/CauaPenteado"></a>
+    <li>Gustavo Carelli Pinton</li> [GitHub:] (https://github.com/GustavoPinton)
+    <li>Miguel de O. C. Cardoso</li> [GitHub:] 
+    <li>Aleksander Gustavo Assis</li> [GitHub:] (https://github.com/AleksGustavo)
+    <li>Caua Penteado dos Santos</li> [GitHub:] (https://github.com/CauaPenteado)
   </ul>
 
   <a href='https://mateus-cc.github.io/dsm-fatec-pi-grupo01/Codigo/index.html'>Link para Projeto</a>
