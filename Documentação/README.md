@@ -28,7 +28,7 @@ Linguagem de Estilo: <img width='60' height='60' src="https://cdn.jsdelivr.net/g
   <li>Disponibilizar formulário para contato</li>
   <li>Incluir botões para contato direto ao WhatsApp do profissional</li>
   <li>Incluir botões para redes sociais do profissional</li>
-  <li>Organizar o conteúdode forma que faça sentido ao usuário</li>
+  <li>Organizar o conteúdo de forma que faça sentido ao usuário</li>
 </ul>
 
 ### Requisitos Não Funcionais:
