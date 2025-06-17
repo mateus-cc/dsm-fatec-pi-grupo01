@@ -18,4 +18,6 @@
 - Aleksander Gustavo Assis: [GitHub](https://github.com/AleksGustavo)
 - Caua Penteado dos Santos: [GitHub](https://github.com/CauaPenteado)
 
-  <a href='https://mateus-cc.github.io/dsm-fatec-pi-grupo01/Codigo/index.html'>Link para Projeto</a>
+ <a href='https://www.figma.com/proto/8vXB9oCOaamsQz8IvtStZZ/CC-Projetos-Finalizado?node-id=0-1&t=su5nUJUNA6dyAEac-1'>Link para o design Figma </a>
+
+ <a href='https://mateus-cc.github.io/dsm-fatec-pi-grupo01/Codigo/index.html'>Link para Projeto</a>
