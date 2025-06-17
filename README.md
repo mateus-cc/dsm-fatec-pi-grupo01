@@ -12,7 +12,7 @@
 - Mateus Cesar Costa (PO): [GitHub](https://github.com/mateus-cc)
 - Felipe Rodrigues Teixeira: [GitHub](https://github.com/1freelipe)
 - Wanderson Jaime de Almeida Santos: [GitHub](https://github.com/WandersonSantos1991)
-- Ruan Moraes: [GitHub](https://github.com/)
+- Ruan Moraes: [GitHub](https://github.com/RuanMoraes99)
 - Gustavo Carelli Pinton: [GitHub](https://github.com/GustavoPinton)
 - Miguel de O. C. Cardoso: GitHub (não informado)
 - Aleksander Gustavo Assis: [GitHub](https://github.com/AleksGustavo)
