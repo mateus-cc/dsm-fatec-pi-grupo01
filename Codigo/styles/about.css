@@ -21,6 +21,13 @@
     width: 400px;
     height: 400px;
     animation: animacaoImg 0.8s ease-in-out both;
+    border: 1px solid black;
+}
+
+.about_img { 
+    width: 300px;
+    border: 1px solid black;
+    margin-top: 80px;
 }
 
 .about {
