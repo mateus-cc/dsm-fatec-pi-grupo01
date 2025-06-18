@@ -54,3 +54,20 @@ font-size: 14px;
     bottom: 0;
     width: 100%;
 }
+
+
+
+@media screen and (max-height: 800px){
+    body {
+        overflow: hidden;
+    }
+
+    .depoimentos {
+        height: auto;
+        margin: 0 auto;
+    }
+
+    .slide, .swiper-slide {
+        padding: 0;
+    }
+}
